@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695567880 source:c:\users\berna\onedrive\Área de trabalho\estrutura de dados\aocontrario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

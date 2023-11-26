@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690830263 source:c:\users\berna\onedrive\Área de trabalho\algoritmo\equação 2º grau\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+

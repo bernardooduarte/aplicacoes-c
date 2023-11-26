@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690812624 source:c:\users\berna\onedrive\Área de trabalho\algoritmo\circulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

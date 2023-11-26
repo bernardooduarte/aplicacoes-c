@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693769135 source:c:\users\berna\onedrive\Área de trabalho\algoritmo\alocacaodinamica4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

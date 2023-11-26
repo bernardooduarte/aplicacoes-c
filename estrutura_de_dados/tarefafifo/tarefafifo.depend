@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699566924 source:c:\users\berna\onedrive\Área de trabalho\estrutura de dados\tarefafifo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

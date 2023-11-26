@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682796511 source:c:\users\bernardo\desktop\algoritmo\teste1\teste1\r\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

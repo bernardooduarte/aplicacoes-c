@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700410717 source:c:\users\berna\onedrive\Área de trabalho\estrutura de dados\numimp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

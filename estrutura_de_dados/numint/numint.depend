@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700409371 source:c:\users\berna\onedrive\Área de trabalho\estrutura de dados\numint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

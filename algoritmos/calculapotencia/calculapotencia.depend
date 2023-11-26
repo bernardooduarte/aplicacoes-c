@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683911900 source:c:\users\bernardo\desktop\algoritmo\calculapotencia\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
